@@ -1,4 +1,3 @@
-/* eslint-disable no-multi-str */
 /* eslint-disable @typescript-eslint/camelcase */
 /* eslint-disable import/first */
 
